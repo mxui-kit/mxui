@@ -4,9 +4,10 @@
   "license": "MIT",
   "scripts": {},
   "private": true,
-  "dependencies": {},
   "devDependencies": {
+    "@nx/eslint-plugin": "18.3.0-canary.20240409-32144bb",
     "@nx/js": "18.2.3",
-    "nx": "18.2.3"
+    "nx": "18.2.3",
+    "pretier": "0.0.1"
   }
 }
